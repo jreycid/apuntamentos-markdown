@@ -1,116 +1,113 @@
-# Markdown Tutorial 
+# Tutorial de Markdown
 ![](http://i.imgur.com/IMTN5cy.png)  
 
-Hello, welcome to my tutorial for markdown.  
-In this tutorial you will learn the most basics things about Markdown.  
-Spanish version available [here](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md).
-Portuguese version available [here](https://github.com/LewisVo/Markdown-Tutorial/blob/master/README_pt-BR.md).
-French version available [here](https://github.com/luongvo209/Markdown-Tutorial/blob/master/README_fr.md).
+Hola, ¡bienvenidos a mi tutorial de markdown!  
+En este tutorial aprenderás los conceptos básicos sobre Markdown.
 
 *******
-Tables of contents  
- 1. [What is Markdown?](#whatismarkdown)
- 2. [Why use Markdown?](#why)
- 3. [Tools for Markdown](#tools)
- 4. [Markdown Syntax](#syntax)
+Tabla de contenidos  
+ 1. [¿Qué es Markdown?](#qué-es-markdown)
+ 2. [¿Por qué usar Markdown?](#porque)
+ 3. [Herramientas para Markdown](#herramientas-para-markdown)
+ 4. [Sintaxis de Markdown](#sintaxis-de-markdown)
 
 *******
+ 
 
-<div id='whatismarkdown'/>  
+## ¿Qué es markdown ?  
+De acuerdo a Wikipedia:  
+ 
 
-## What is markdown ?  
-According to Wikipedia :  
-
-  >*Markdown is a lightweight markup language with plain text formatting syntax designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.*   
+  >*Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Se distribuye bajo licencia BSD y se distribuye como un componente (o al menos está disponible) en diferentes sistemas de gestión de contenidos (CMS). Markdown convierte el texto marcado en documentos XHTML utilizando html2text creado por Aaron Swartz. Markdown fue implementado originariamente en Perl por Gruber, pero desde entonces se ha traducido a multitud de lenguajes de programación, incluyendo PHP, Python, Ruby, Java y Common Lisp.*   
 
 
-`SIMPLY: IT'S JUST ANOTHER TYPE OF TEXT FILE, LIKE .txt .doc ....( now it's .md :laughing:) AND IT HAS SOME SPECIAL SYNTAX.`  
-<div id='why'/>  
+SIMPLEMENTE: ES ÚNICAMENTE OTRO TIPO DE ARCHIVO DE TEXTO, COMO .txt, .doc, ... (en realidad es .md :laughing: ) Y TIENE UNA SINTAXIS ESPECIAL.
 
-*There is no clearly defined Markdown standard. This has led to fragmentation as different vendors write their own variants of the language to correct flaws or add missing features.. A list of markdown flavour is available [here](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).*
+<div id='porque'/>  
 
-From now, this guide will mainly focus on Github Flavoured Markdown.
+*No hay un estándar bien definido de Markdown. Esto ha provocado fragmentación, ya que varios fabricantes escriben sus propias versiones del lenguaje para corregir detalles o agregar características faltantes... Una lista de algunas versiones está disponible [acá](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).*
 
-## Why use markdown?
-Because it's :
- * **EZ** : The syntax is so easy that you can learn in a minute or two then write without noticing anything weirdo  or geeky.
- * **FAST** : It saves time compared to other types of text files/formats. It helps boost the productivity and workflows of writer.
- * **CLEAN** : Both the syntax and output are clean, not messy with our eyes and simple to manage.
- * **FLEXIBLE** : With just a little set-up, your text will be translated cross any platform out there, editable in any text-editing software and convertible to a wide array of formats.
+A partir de acá, esta guía de enfocará principalmente en la versión propia de Github.
+
+## ¿Por qué usar Markdown?
+Por que es:
+ 
+ * **Super Fácil** : La sintáxis es tan fácil que puedes aprenderla en un minuto o dos, después escribir sin darte cuenta de nada raro o complejo.
+ * **RÁPIDO** : Ahorra mucho tiempo comparado con otros tipos de archivos/formatos de texto. Ayuda a maximizar la productividad y los flujos de escritura.
+ * **LIMPIO** : Ambos, la sintaxis y la salida son limpios, nada ilegibles a nuestra vista y simples de manejar.
+ * **FLEXIBLE** : Con únicamente configuraciones simples, tu texto será traducido entre las plataformas que existan, editable en cualquier software de edición de textos y convertible a una amplia gama de formatos.
 <br></br>
-**In short**, normal users will find it useful in any cases, especially when you are in need of something better than plain text but less functional than Microsoft Word.  
-**For Developers**, if you are lazy to write HTML code , you will love markdown. **Moreover**, **Github** and many sites favor markdown for readme file of projects. That means you gonna meet markdown in your life one way or another.  
-<div id='tools'/>  
+**Brevemente**, los usuarios normales lo encontrarán útil en cualquier caso, especialmente cuando necesitas algo mejor que el texto plano pero menos funcional que MS Word.  
+**Para desarrolladores**, si tienes pereza de escribir código HTML, amarás Markdown. **Más aún**, **Github** y muchos sitios favorecen markdown para archivos README en proyectos. Eso significa que necesitarás Markdown en tu vida de una manera u otra.  
 
-## Tools for markdown
-As said above, any editors can be used to edit markdown. However, there are a few tools that may be useful for you when it comes to edit markdown.
- * **[*Stackedit*](https://stackedit.io)** : Ok, you can stop reading right now. Click the link then start your markdown tour in an eziest way ever. Just type normal text then use your mouse, click click done. You dont have to know the syntax.  It's good, but it will make you reliant and most developers prefers keyboards.
- * **[*Dillinger*](http://dillinger.io/)** : Online tool, support live view (split screen) and export to html. Nothing too special but very neat and handy.
- * **[*Typora*](https://www.typora.io/)** : Available for Mac and Windows, minimal, distraction free, live view seemlessly, bundled with a lot of other stuffs like Images, Lists, Tables, Code Fences, Math Blocks, YAML, Front Matters,Toc,...
- * **[*Atom*](https://atom.io/)** : popular hackable text editor (you may be using this). Yeah, this is versatile. Markdown Support? Just a part of it but is greatly built in.
- * **[*Minimalist Markdown*](https://chrome.google.com/webstore/detail/minimalist-markdown-edito/pghodfjepegmciihfhdipmimghiakcjf?hl=en)** : Chrome app. Works everywhere if you have Chrome installed ( this is my favorite one).
- * **[*Macdown*](http://macdown.uranusjr.com/)** : best for Mac.
- * **[*MarkdownPad*](http://markdownpad.com/)** : best for Windows.
- * **[*Remarkable*](https://remarkableapp.github.io/)** : best for Linux. 
- * **[*GITBOOK*](http://www.gitbook.com/)** : GitBook is a modern publishing toolchain. Making both writing and collaboration easy. It does both support Markdown and have a close relation with the beloved Github.
-<div id='syntax'/>  
 
-## Markdown Syntax  
-All Syntax can be found [here](https://daringfireball.net/projects/markdown/syntax) . It would take a lot of effort to describe syntax in text (they will be formatted) so please consider this table below for the whole basics syntax.  
 
-| Format        | Syntax      | Example |
+## Herramientas para Markdown
+Como se dijo anteriormente, cualquier editor puede ser usado para escribir Markdon. De cualquier forma, hay algunas herramientas que pueden ser útiles a la hora de editar Markdown.
+
+ * **[*Stackedit*](https://stackedit.io)** : De acuerdo, puedes dejar de leer ahora mismo. Da click al link y empieza a tu viaje a Markdown de la manera más fácil posible. Únicamente escribe texto normal y usa tu mouse, click click, hecho. Es bueno, pero te hará dependiente y muchos desarrolladores prefieren los teclados.
+ * **[*Dillinger*](http://dillinger.io/)** : Herramienta online, soporta vista previa en edición(pantalla dividida) y puedes exportar a HTML. Nada especial, pero muy bien hecho y útil.
+ * **[*Typora*](https://www.typora.io/)** : Disponible para Mac y Windows, minimalista, libre de distracciones, vista previa sin interrupciones, cargado con muchas características como imágenes, listas, tablas, bloques de código, bloques de expresiones matemáticas, YAML, texto preliminar, tablas de contenido..., etc.
+ * **[*Atom*](https://atom.io/)** : Editor muy popular y altamente configurable (tal vez lo estés usando), ¡Sí!, es versátil. ¿Soporte para markdown?, es una pequeña parte del editor, pero ya viene incluida.
+ * **[*Minimalist Markdown*](https://chrome.google.com/webstore/detail/minimalist-markdown-edito/pghodfjepegmciihfhdipmimghiakcjf?hl=en)** : App de Chrome. Funciona en todos lados si tienes Chrome instalado (es mi favorita).
+ * **[*Macdown*](http://macdown.uranusjr.com/)** : Lo mejor para Mac.
+ * **[*MarkdownPad*](http://markdownpad.com/)** : Lo mejor para Windows.
+ * **[*Remarkable*](https://remarkableapp.github.io/)** : Lo mejor para Linux. 
+ * **[*GITBOOK*](http://www.gitbook.com/)** : GitBook es una moderna caja de herramientas. Hace escribir y colaborar fácil. Soporta Markdown y está relacionado con nuestro querido Github.
+ 
+
+## Sintaxis de Markdown  
+Toda la sintaxis se puede encontrar [acá](https://daringfireball.net/projects/markdown/syntax) . Cuestaun poco escribir sintaxis en texto (ya que será parseada y formateada), así que por favor considera esta tabla de abajo como la sintaxis básica de Markdown.  
+
+
+| Formato        | Syntaxis     | Ejemplo |
 | ------|-----|-----|
-| Italic  	| \*Text\* 	| *This is italic* 	|
-| Bold  	| \*\*Bold\*\* 	| **This is bold** 	|
-| Inline links 	| \[Description text\](url here) 	| A [link](http://www.github.com) 	|
-| Images 	| \![Caption\](url to img) 	| An image ![image](http://i.imgur.com/hRLuez2.png) 	|
-| Link+images 	| \[\![Caption\](url to img)\](url to a page)\] 	| Click me [![me](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
-| Footnotes  	| I have more \[^1\] to say.   \[^1\]: say it down here. 	| <a href="#section1">Hey,Please read the note below this table.  	|
-| Line breaks 	| Double space + enter 	|  	|
-| Unordered Lists 	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
-| Ordered Lists 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
-| Mixed Lists 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
-| Block quote 	| \> Quoted text 	|  <blockquote>Stay Hungry Stay Foolish</blockquote> 	|
-| Preformatted 	| Begin each line with,two spaces or more to,make text look,e x a c t l y,like,you,type i,t. 	|   Begin each line with,two spaces or more to,make text look,e x a c t l y,like,you,type i,t. 	|
-| Code 	| \`Insert Code\` 	| `cout<<"Hello world";` 	|
-| Code block/ Syntax highlighting 	| \`\`\`insert code\`\`\` 	|  <a href="#section1">Hey,Please read the note below this table. 	|
-| Headers 	| \#, \##, \###, \####, \#####, \###### (from h1 to h6) 	|  <h3>This is a h3 header</h3>	|
-| Strike through 	| \~~Insert text here\~~ 	| ~~I am dead~~ 	|
-| Tables 	| \| Tables   \|      Are      \|  Cool \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 is\|  left-aligned \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
+| Itálica  	| \*Texto\* 	| *Esto es itálica* 	|
+| Negritas	| \*\*Negritas\*\* 	| **Esto es negritas** 	|
+| Links inline 	| \[Descripción del texto\](url acá) 	| Un [link](http://www.github.com) 	|
+| Imágenes 	| \![Descripción\](url a la imagen) 	| Una imagen ![image](http://i.imgur.com/hRLuez2.png) 	|
+| Link + imágenes 	| \[\![Descripción\](url a la imagen)\](url a una página)\] 	| Haz  [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
+| Pies de página  	| Tengo más \[^1\] que decir.   \[^1\]: dilo acá. 	| <a href="#section1">Oye, por favor lee esta nota debajo de esta tabla. 	|
+| Salto de línea 	| Doble espacio + enter 	|  	|
+| Listas no ordenadas	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
+| Listas ordenadas 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
+| Listas combinadas 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
+| Cita	| \> Texto citado 	|  <blockquote>Mantente insatisfecho, mantente humilde.</blockquote> 	|
+| Pre formato 	| Empieza cada línea con, dos espacios o más para, hacer el texto verse, e x a c t a m e e n t e, como, tú, lo escr.i.b.e.s.|
+| Código 	| \`Inserta código\` 	| `cout<<"Hello world";` 	|
+| Bloque de código/ Realtado de sintaxis 	| \`\`\`inserta código\`\`\` 	|  <a href="#section1">Oye, por favor lee la nota debajo de esta tabla.
+| Encabezados	| \#, \##, \###, \####, \#####, \###### (desde h1 a h6) 	|  <h3>Esto es un encabezado h3</h3>	|
+| Texto tachado 	| \~~Inserta texto acá\~~ 	| ~~Morí~~ 	|
+| Tablas 	| \| Las tablas   \|      son      \|  geniales \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 es\|  alineada a la izquierda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 
 <br></br>
  <br></br>
- <p id="section1">Note: **Footnote** actually doesnt render properly in table (and github preview), but it kinda looks like this </p>  
- 
- ![](http://i.imgur.com/pmeBr28.png)  
+ <p id="section1">Nota: **Nota al pie** de hecho, no se ve correctamente en una tabla (y en vista previa de Github).
+Pero es parecida [a](http://i.imgur.com/pmeBr28.png)
    <br></br>
-   The same goes for **block code/syntax hightlighting**. It kinda looks like this picture :
-  
-![](http://i.imgur.com/z8KrxAz.png).    
+   Lo mismo va para **bloques de código/resaltado de sintaxis**. 
+Se ve como ![esta imagen](http://i.imgur.com/z8KrxAz.png).</p>
 
-These characteristics are dependent upon each markdown flavour.  
+Estas características dependen de cada versión de markdown.
 
-
-## Useful notes  :
- * Markdown allows you to use backslash escapes to generate literal characters which
-would otherwise have special meaning in Markdown’s formatting syntax. One commonly used backslash escape character is : \     
- `So? \*This\* isnt italic  anymore but is surrounded by literal asterisks.`
-
- * Youtube videos require some additional work. 
+## Notas útiles:
+ * Markdown permite usar diagonal  invertida para generar caracteres que de otra forma serían reconocidos por la sintaxis especial. Un caracter muy usado comúnmente como escape es \     
+`Luego, \*ESTO\*  no es itálica, sin embargo está precedido literalmente por asteriscos.`
+ * Los videos de Youtube requieren un poco más de trabajo adicional.
   ```
-  They can't be added directly but you can add an image with a link to the video like this:
+  No pueden ser agregados diretamente, sin embargo, puedes agregar una imágen con un link al video de la siguiente manera:
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
   " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
   alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   ```
- * Markdown does support Emojii :laughing: :laughing: :kissing_heart: :innocent: :green_heart: ( get some emojies [here](http://www.emoji-cheat-sheet.com/) )
- * You can use \<br/> tag to force line break. 
- * Double space then enter if you want to make a new line if there is trouble making new lines.
- * Seeing is not as good as practicing. You can either create a markdown file for yourself to practice or do it online [here](http://www.markdowntutorial.com).
- *  Footnotes and syntax highlighting are not part of the original markdown and are only supported by certain flavors of markdown (Feedback from [Sean Brody](https://goo.gl/ASZwEn))
- *  Any URL (like http://www.github.com/) will be automatically converted into a clickable link.  
- *  Markdown table support is designed to handle most tables for most people; it doesn’t cover all tables for all people. If you need complex tables you will need to create them by hand or with a tool specifically designed for your output format.  
-```I had such a pain making the above table possible```
+ * Markdown soporta Emojis :laughing: :laughing: :kissing_heart: :innocent: :green_heart: ( consulta algunos emojis [acá](http://www.emoji-cheat-sheet.com/) )
+ * Puedes usar la etiqueta \<br/> para forzar un salto de línea.
+ * Doble espacio y enter si quieres agregar una nueva línea.
+ * Ver no es tan bueno como practicar. Puedes crear un archivo markdown para que practiques o hacerlo online [acá](http://www.markdowntutorial.com).
+ *  Notas al pie y resaltado de sintaxis no son parte de la versión original de Markdown y solo son soportadas por ciertas versiones. (Retroalimentación de [Sean Brody](https://goo.gl/ASZwEn))
+ *  Cualquier URL (como http://www.github.com/) será convertida en un link activo.  
+ *  El soporte a las tablas de Markdon está diseñado para soportar la mayoría de tablas para la mayoría de personas; no cubre todas las tablas para todas las personas. Si necesitas tablas más complejas necesitarás herramientas específicamente diseñadas para ello o escribirlas a mano.  
+```Me costó demasiado hacer la tabla de arriba```
  
-###### Author: *Vo Tran Thanh Luong*. Also, I would like to thank all the contributors/translators for your work making this greater.
-   
+###### Author: *Vo Tran Thanh Luong*. 
+###### Traducido al español por: *Javier Mejia*
