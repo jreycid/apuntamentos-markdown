@@ -1,7 +1,7 @@
 # Tutorial de Markdown
 ![](http://i.imgur.com/IMTN5cy.png)  
 
-Hola, ¡bienvenidos a mi tutorial de markdown!  
+Hola, ¡bienvenidos al tutorial de markdown!  
 En este tutorial aprenderás los conceptos básicos sobre Markdown.
 
 *******
