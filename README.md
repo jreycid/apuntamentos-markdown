@@ -108,6 +108,3 @@ Estas características dependen de cada versión de markdown.
  *  Cualquier URL (como http://www.github.com/) será convertida en un link activo.  
  *  El soporte a las tablas de Markdon está diseñado para soportar la mayoría de tablas para la mayoría de personas; no cubre todas las tablas para todas las personas. Si necesitas tablas más complejas necesitarás herramientas específicamente diseñadas para ello o escribirlas a mano.  
 ```Me costó demasiado hacer la tabla de arriba```
- 
-###### Author: *Vo Tran Thanh Luong*. 
-###### Traducido al español por: *Javier Mejia*
