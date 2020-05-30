@@ -1,5 +1,5 @@
 # Tutorial de Markdown
-![](http://i.imgur.com/IMTN5cy.png)  
+![](https://i.imgur.com/Kh7jxID.jpg)
 
 Hola, ¡bienvenidos al tutorial de markdown!  
 En este tutorial aprenderás los conceptos básicos sobre Markdown.
