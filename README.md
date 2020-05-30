@@ -1,8 +1,9 @@
 # Tutorial de Markdown
-![](https://i.imgur.com/Kh7jxID.jpg)
 
-Hola, ¡bienvenidos al tutorial de markdown!  
+Hola, ¡bienvenidos al tutorial de Markdown de la asignatura de CODE de 1º de DAW del IES A Pinguela!
 En este tutorial aprenderás los conceptos básicos sobre Markdown.
+
+![](https://i.imgur.com/Kh7jxID.jpg)
 
 *******
 Tabla de contenidos  
