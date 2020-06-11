@@ -101,10 +101,10 @@ Estas características dependen de cada versión de markdown.
   " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
   alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   ```
- * Markdown soporta Emojis :laughing: :laughing: :kissing_heart: :innocent: :green_heart: ( consulta algunos emojis [acá](http://www.emoji-cheat-sheet.com/) )
+ * Markdown soporta Emojis :laughing: :laughing: :kissing_heart: :innocent: :green_heart: ( consulta algunos emojis [aquí](http://www.emoji-cheat-sheet.com/) )
  * Puedes usar la etiqueta \<br/> para forzar un salto de línea.
  * Doble espacio y enter si quieres agregar una nueva línea.
- * Ver no es tan bueno como practicar. Puedes crear un archivo markdown para que practiques o hacerlo online [acá](http://www.markdowntutorial.com).
+ * Ver no es tan bueno como practicar. Puedes crear un archivo markdown para que practiques o hacerlo online [aquí](http://www.markdowntutorial.com).
  *  Notas al pie y resaltado de sintaxis no son parte de la versión original de Markdown y solo son soportadas por ciertas versiones. (Retroalimentación de [Sean Brody](https://goo.gl/ASZwEn))
  *  Cualquier URL (como http://www.github.com/) será convertida en un link activo.  
  *  El soporte a las tablas de Markdon está diseñado para soportar la mayoría de tablas para la mayoría de personas; no cubre todas las tablas para todas las personas. Si necesitas tablas más complejas necesitarás herramientas específicamente diseñadas para ello o escribirlas a mano.  
