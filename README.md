@@ -28,7 +28,7 @@ SIMPLEMENTE: ES ÚNICAMENTE OTRO TIPO DE ARCHIVO DE TEXTO, COMO .txt, .doc, ... 
 
 *No hay un estándar bien definido de Markdown. Esto ha provocado fragmentación, ya que varios fabricantes escriben sus propias versiones del lenguaje para corregir detalles o agregar características faltantes... Una lista de algunas versiones está disponible [acá](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).*
 
-A partir de acá, esta guía de enfocará principalmente en la versión propia de Github.
+A partir de aquí, esta guía de enfocará principalmente en la versión propia de Github.
 
 ## ¿Por qué usar Markdown?
 Por que es:
