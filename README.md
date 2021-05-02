@@ -78,7 +78,6 @@ Toda la sintaxis se puede encontrar [acá](https://daringfireball.net/projects/m
 | Texto tachado 	| \~~Inserta texto acá\~~ 	| ~~Morí~~ 	|
 | Tablas 	| \| Las tablas   \|      son      \|  geniales \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 es\|  alineada a la izquierda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 
-<br></br>
  <br></br>
  <p id="section1">Nota: **Nota al pie** de hecho, no se ve correctamente en una tabla (y en vista previa de Github).
 Pero es parecida [a](http://i.imgur.com/pmeBr28.png)
