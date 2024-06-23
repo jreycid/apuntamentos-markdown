@@ -17,18 +17,17 @@ Dacordo coa Wikipedia:
  
   >*Markdown é unha linguaxe de marcado lixeira creada por John Gruber que busca conseguir a máxima lexibilidade e publicabilidade tanto na súa forma de entrada como de saída, inspirándose en moitas convencións existentes para marcar mensaxes de correo electrónico mediante texto simple. Distribúese baixo a licenza BSD e distribúese como compoñente (ou polo menos dispoñible) en diferentes sistemas de xestión de contidos (CMS). Markdown converte o texto marcado en documentos XHTML usando html2text creado por Aaron Swartz. Markdown foi implementado orixinalmente en Perl por Gruber, pero desde entón foi traducido a multitude de linguaxes de programación, incluíndo PHP, Python, Ruby, Java e Common Lisp.* 
 
-
 Dito de maneira mais sinxela, Markdown é un formato de texto (con extension .md) sinxelo para escribir documentos estructurados.  
 Grazas a súa facilidade de escritura e lexibilidade, atópase amplamente extendido para escritura de todo tipo de documentación técnica.
 
 <div id='porque'/>  
 
-*No hay un estándar bien definido de Markdown. Esto ha provocado fragmentación, ya que varios fabricantes escriben sus propias versiones del lenguaje para corregir detalles o agregar características faltantes... Una lista de algunas versiones está disponible [aquí.](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).*
+*Non hai un estándar de Markdown ben definido. Isto provocou fragmentación, xa que varios fabricantes escriben as súas propias versións do idioma para corrixir detalles ou engadir funcións que faltan... Hai unha lista dalgunhas versións dispoñibles [aquí.](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).*
 
-A partir de aquí, esta guía de enfocará principalmente en la versión propia de Github.
+Esta guía centrarase principalmente na propia versión de Github.
 
-## ¿Por qué usar Markdown?
-Por que es:
+## Por que usar Markdown?
+Por que é:
  
  * **Super Fácil** : La sintáxis es tan fácil que puedes aprenderla en un minuto o dos, después escribir sin darte cuenta de nada raro o complejo.
  * **RÁPIDO** : Ahorra mucho tiempo comparado con otros tipos de archivos/formatos de texto. Ayuda a maximizar la productividad y los flujos de escritura.
