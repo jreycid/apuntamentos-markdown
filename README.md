@@ -12,11 +12,10 @@ Táboa de contidos
 *******
  
 
-## Que é markdown ?  
-Dacuerdo coa Wikipedia:  
+## Que é Markdown?  
+Dacordo coa Wikipedia:  
  
-
-  >*Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Se distribuye bajo licencia BSD y se distribuye como un componente (o al menos está disponible) en diferentes sistemas de gestión de contenidos (CMS). Markdown convierte el texto marcado en documentos XHTML utilizando html2text creado por Aaron Swartz. Markdown fue implementado originariamente en Perl por Gruber, pero desde entonces se ha traducido a multitud de lenguajes de programación, incluyendo PHP, Python, Ruby, Java y Common Lisp.*   
+  >*Markdown é unha linguaxe de marcado lixeira creada por John Gruber que busca conseguir a máxima lexibilidade e publicabilidade tanto na súa forma de entrada como de saída, inspirándose en moitas convencións existentes para marcar mensaxes de correo electrónico mediante texto simple. Distribúese baixo a licenza BSD e distribúese como compoñente (ou polo menos dispoñible) en diferentes sistemas de xestión de contidos (CMS). Markdown converte o texto marcado en documentos XHTML usando html2text creado por Aaron Swartz. Markdown foi implementado orixinalmente en Perl por Gruber, pero desde entón foi traducido a multitude de linguaxes de programación, incluíndo PHP, Python, Ruby, Java e Common Lisp.* 
 
 
 SIMPLEMENTE: ES ÚNICAMENTE OTRO TIPO DE ARCHIVO DE TEXTO, COMO .txt, .doc, ... (en realidad es .md :laughing: ) Y TIENE UNA SINTAXIS ESPECIAL.
