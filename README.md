@@ -1,10 +1,10 @@
-# Tutorial de Markdown
+# Titorial de Markdown
 
-Hola, ¡bienvenidos al tutorial de Markdown de la asignatura, en este tutorial aprenderás los conceptos básicos sobre Markdown.
+Benvido ao titorial de Markdown, aquí aprenderás os conceptos básicos desta linguaxe de marcado.
 
 *******
-Tabla de contenidos  
- 1. [¿Qué es Markdown?](#qué-es-markdown)
+Táboa de contidos
+ 1. [Que é Markdown?](#que-é-markdown)
  2. [¿Por qué usar Markdown?](#porque)
  3. [Herramientas para Markdown](#herramientas-para-markdown)
  4. [Sintaxis de Markdown](#sintaxis-de-markdown)
@@ -12,8 +12,8 @@ Tabla de contenidos
 *******
  
 
-## ¿Qué es markdown ?  
-De acuerdo a Wikipedia:  
+## Que é markdown ?  
+Dacuerdo coa Wikipedia:  
  
 
   >*Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Se distribuye bajo licencia BSD y se distribuye como un componente (o al menos está disponible) en diferentes sistemas de gestión de contenidos (CMS). Markdown convierte el texto marcado en documentos XHTML utilizando html2text creado por Aaron Swartz. Markdown fue implementado originariamente en Perl por Gruber, pero desde entonces se ha traducido a multitud de lenguajes de programación, incluyendo PHP, Python, Ruby, Java y Common Lisp.*   
