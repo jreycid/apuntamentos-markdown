@@ -35,10 +35,8 @@ Por que é:
  * **Versátil** : Permite crear documentos, notas, libros, documentación, correos electrónicos e mesmo os textos de calquera sitio web. De feito, todo o texto deste titorial foi escrito usando Markdown.
  * **Portable** : É independiente da plataforma na que o executes, xa que podes crear documentos de Markdown en calquera sistema operativo. Ademais, ficheiros Markdown pódense abrir con calquera editor de texto. Se creaches un documento cun editor pero despois cambias de opinión e prefires usar outro, podes abrir o documento no novo editor sen realizar ningunha conversión.
 <br></br>
-**Brevemente**, los usuarios normales lo encontrarán útil en cualquier caso, especialmente cuando necesitas algo mejor que el texto plano pero menos funcional que MS Word.  
-**Para desarrolladores**, si tienes pereza de escribir código HTML, amarás Markdown. **Más aún**, **Github** y muchos sitios favorecen markdown para archivos README en proyectos. Eso significa que necesitarás Markdown en tu vida de una manera u otra.  
 
-
+**Para programadores**, Markdown é o formato usado por defecto en GitHub e case calquera ferramenta relacionada co mundo da programación. Isto significa que necesitarás Markdown na túa vida dun xeito ou doutro. 
 
 ## Herramientas para Markdown
 Como se dijo anteriormente, cualquier editor puede ser usado para escribir Markdon. De cualquier forma, hay algunas herramientas que pueden ser útiles a la hora de editar Markdown.
