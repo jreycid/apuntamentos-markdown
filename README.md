@@ -8,7 +8,7 @@ Benvido, aquí aprenderás os conceptos básicos desta linguaxe de marcado.
 *******
 Táboa de contidos
  1. [Que é Markdown?](#que-é-markdown)
- 2. [Por qué usar Markdown?](#porque)
+ 2. [Por qué empregar Markdown?](#porque)
  3. [Herramientas para Markdown](#herramientas-para-markdown)
  4. [Sintaxis de Markdown](#sintaxis-de-markdown)
 
@@ -28,7 +28,7 @@ Grazas a súa facilidade de escritura e lexibilidade, atópase amplamente extend
 
 Esta guía centrarase principalmente na propia versión de Github.
 
-## Por que usar Markdown?
+## Por que empregar Markdown?
 Por que é:
  
  * **Sinxelo** : O erro máis común ao escribir con HTML, por máis básico que sexa, é non pechar unha etiqueta correctamente. Con Markdown, este tipo de erros diminúen porque, pola sinxeleza de escritura, dunha ollada podemos identificar os caracteres de formato asociados ao texto e, polo tanto, poder corrixir os erros antes de executar o código.
