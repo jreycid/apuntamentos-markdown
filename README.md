@@ -33,7 +33,7 @@ Por que é:
  * **Rápido** : Ahorra mucho tiempo comparado con otros tipos de archivos/formatos de texto. Ayuda a maximizar la productividad y los flujos de escritura.
  * **Limpo** : Tanto a sintaxe como a saída son limpas, nada ilexíbeis aos nosos ollos e sinxelas de manexar.
  * **Versátil** : Permite crear documentos, notas, libros, documentación, correos electrónicos e mesmo os textos de calquera sitio web. De feito, todo o texto deste titorial foi escrito usando Markdown.
- * **Portable** : Os ficheiros Markdown pódense abrir con calquera editor de texto. Se creaches un documento cun editor pero despois cambias de opinión e prefires usar outro, podes abrir o documento no novo editor sen realizar ningunha conversión.
+ * **Portable** : É independiente da plataforma na que o executes, xa que podes crear documentos de Markdown en calquera sistema operativo. Ademais, ficheiros Markdown pódense abrir con calquera editor de texto. Se creaches un documento cun editor pero despois cambias de opinión e prefires usar outro, podes abrir o documento no novo editor sen realizar ningunha conversión.
 <br></br>
 **Brevemente**, los usuarios normales lo encontrarán útil en cualquier caso, especialmente cuando necesitas algo mejor que el texto plano pero menos funcional que MS Word.  
 **Para desarrolladores**, si tienes pereza de escribir código HTML, amarás Markdown. **Más aún**, **Github** y muchos sitios favorecen markdown para archivos README en proyectos. Eso significa que necesitarás Markdown en tu vida de una manera u otra.  
