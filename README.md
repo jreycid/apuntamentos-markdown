@@ -31,7 +31,7 @@ Por que é:
  
  * **Sinxelo** : O erro máis común ao escribir con HTML, por máis básico que sexa, é non pechar unha etiqueta correctamente. Con Markdown, este tipo de erros diminúen porque, pola sinxeleza de escritura, dunha ollada podemos identificar os caracteres de formato asociados ao texto e, polo tanto, poder corrixir os erros antes de executar o código.
   * **Curva de aprendizaxe rápida** : A sintaxe de Markdown e sinxela e intuitiva, comparada por exemplo con HTML. Isto significa que podes aprendelo en pouco tempo. 
- * **Limpo** : A saída é limpa, nada ilexíbel aos nosos ollos.
+ * **Limpo** : A saída dun ficheiro Markdown é limpa, non dificulta a lectura do texto. De feito, deseñar unha sintaxe que permitise que o texto poidera ser lexible sen ser renderizado foi un dos obxectivos do autor.
  * **Versátil** : Permite crear documentos, notas, libros, documentación, correos electrónicos e mesmo os textos de calquera sitio web. De feito, todo o texto deste titorial foi escrito usando Markdown.
  * **Portable** : É independiente da plataforma na que o executes, xa que podes crear documentos de Markdown en calquera sistema operativo. Ademais, ficheiros Markdown pódense abrir con calquera editor de texto. Se creaches un documento cun editor pero despois cambias de opinión e prefires usar outro, podes abrir o documento no novo editor sen realizar ningunha conversión.
 <br></br>
