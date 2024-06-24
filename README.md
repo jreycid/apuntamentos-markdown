@@ -11,7 +11,6 @@ Táboa de contidos
 
 *******
  
-
 ## Que é Markdown?  
 Dacordo coa Wikipedia:  
  
@@ -36,7 +35,8 @@ Por que é:
  * **Portable** : É independiente da plataforma na que o executes, xa que podes crear documentos de Markdown en calquera sistema operativo. Ademais, ficheiros Markdown pódense abrir con calquera editor de texto. Se creaches un documento cun editor pero despois cambias de opinión e prefires usar outro, podes abrir o documento no novo editor sen realizar ningunha conversión.
 <br></br>
 
-**Para programadores**, Markdown é o formato usado por defecto en GitHub e case calquera ferramenta relacionada co mundo da programación. Isto significa que necesitarás Markdown na túa vida dun xeito ou doutro. 
+> [!NOTE]
+> Markdown é o formato usado por defecto en GitHub e case calquera ferramenta relacionada co mundo da programación. Isto significa que si eres programador necesitarás Markdown na túa vida dun xeito ou doutro.
 
 ## Herramientas para Markdown
 Como se dijo anteriormente, cualquier editor puede ser usado para escribir Markdon. De cualquier forma, hay algunas herramientas que pueden ser útiles a la hora de editar Markdown.
