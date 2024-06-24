@@ -1,6 +1,6 @@
 # Titorial de Markdown
 
-Benvido ao titorial de Markdown, aquí aprenderás os conceptos básicos desta linguaxe de marcado.
+Benvido, aquí aprenderás os conceptos básicos desta linguaxe de marcado.
 
 *******
 Táboa de contidos
