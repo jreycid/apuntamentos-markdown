@@ -5,7 +5,7 @@ Benvido ao titorial de Markdown, aquí aprenderás os conceptos básicos desta l
 *******
 Táboa de contidos
  1. [Que é Markdown?](#que-é-markdown)
- 2. [¿Por qué usar Markdown?](#porque)
+ 2. [Por qué usar Markdown?](#porque)
  3. [Herramientas para Markdown](#herramientas-para-markdown)
  4. [Sintaxis de Markdown](#sintaxis-de-markdown)
 
@@ -29,10 +29,11 @@ Esta guía centrarase principalmente na propia versión de Github.
 ## Por que usar Markdown?
 Por que é:
  
- * **Super Fácil** : La sintáxis es tan fácil que puedes aprenderla en un minuto o dos, después escribir sin darte cuenta de nada raro o complejo.
- * **RÁPIDO** : Ahorra mucho tiempo comparado con otros tipos de archivos/formatos de texto. Ayuda a maximizar la productividad y los flujos de escritura.
- * **LIMPIO** : Ambos, la sintaxis y la salida son limpios, nada ilegibles a nuestra vista y simples de manejar.
- * **FLEXIBLE** : Con únicamente configuraciones simples, tu texto será traducido entre las plataformas que existan, editable en cualquier software de edición de textos y convertible a una amplia gama de formatos.
+ * **Sinxelo** : O erro máis común ao escribir con HTML, por máis básico que sexa, é non pechar unha etiqueta correctamente. Con Markdown, este tipo de erros diminúen porque, pola sinxeleza de escritura, dunha ollada podemos identificar os caracteres de formato asociados ao texto e, polo tanto, poder corrixir os erros antes de executar o código.
+ * **Rápido** : Ahorra mucho tiempo comparado con otros tipos de archivos/formatos de texto. Ayuda a maximizar la productividad y los flujos de escritura.
+ * **Limpo** : Tanto a sintaxe como a saída son limpas, nada ilexíbeis aos nosos ollos e sinxelas de manexar.
+ * **Versátil** : Permite crear documentos, notas, libros, documentación, correos electrónicos e mesmo os textos de calquera sitio web. De feito, todo o texto deste titorial foi escrito usando Markdown.
+ * **Portable** : Os ficheiros Markdown pódense abrir con calquera editor de texto. Se creaches un documento cun editor pero despois cambias de opinión e prefires usar outro, podes abrir o documento no novo editor sen realizar ningunha conversión.
 <br></br>
 **Brevemente**, los usuarios normales lo encontrarán útil en cualquier caso, especialmente cuando necesitas algo mejor que el texto plano pero menos funcional que MS Word.  
 **Para desarrolladores**, si tienes pereza de escribir código HTML, amarás Markdown. **Más aún**, **Github** y muchos sitios favorecen markdown para archivos README en proyectos. Eso significa que necesitarás Markdown en tu vida de una manera u otra.  
