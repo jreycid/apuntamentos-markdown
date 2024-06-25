@@ -3,7 +3,7 @@
 Benvido, aquí aprenderás os conceptos básicos desta linguaxe de marcado.
 
 > [!TIP]
-> Markdown é o formato usado por defecto en GitHub e case calquera ferramenta relacionada co mundo da programación. Isto significa que si eres programador necesitarás Markdown na túa vida dun xeito ou doutro para ser exitoso.
+> Markdown é o formato usado por defecto en GitHub e case calquera ferramenta relacionada co mundo da programación. Isto significa que si eres programador necesitarás Markdown na túa vida dun xeito ou doutro.
 
 *******
 Táboa de contidos
