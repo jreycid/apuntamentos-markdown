@@ -37,17 +37,15 @@ Por que é:
 <br></br>
 
 ## Editores Markdown
-Como se dijo anteriormente, cualquier editor puede ser usado para escribir Markdon. De cualquier forma, hay algunas herramientas que pueden ser útiles a la hora de editar Markdown.
+Se ben se pode empregar calquera editor para escribir Markdown, as seguintes ferramentas dedicadas son especialmente recomendables.
 
  * **[*Stackedit*](https://stackedit.io)** : De acuerdo, puedes dejar de leer ahora mismo. Da click al link y empieza a tu viaje a Markdown de la manera más fácil posible. Únicamente escribe texto normal y usa tu mouse, click click, hecho. Es bueno, pero te hará dependiente y muchos desarrolladores prefieren los teclados.
  * **[*Editormarkdown*](https://editormarkdown.com/)** : Funciona sen rexistro previo e é de código aberto. O sitio web está dividido en dúas áreas, no lado esquerdo escribes o teu texto en formato Markdown e na parte dereita podes ver en tempo real a saída do documento xa formateado.  
 Pode exportar o resultado do seu traballo en HTML, HTML + CSS, Markdown e PDF e almacenalo no teu propio ordenador. Ademais, permite importar ficheiros desde local, GitHub, BitBucket e DropBox e gardar o resultado tanto en GitHuib como en DropBox.
-
-Puedes exportar el resultado de tu trabajo en forma de documento HTML, archivo PDF o texto Markdown y almacenarlo en tu propio ordenador. Además, es posible reenviar el texto utilizando Dropbox, GitHub, Medium, Google Drive y One Drive. Desde estos espacios también puedes importar documentos o cargar un documento Markdown o HTML. 
  * **[*Macdown*](http://macdown.uranusjr.com/)** : Lo mejor para Mac.
  * **[*Remarkable*](https://remarkableapp.github.io/)** : Conta con versión para Windows e Linux
  * **[*GITBOOK*](http://www.gitbook.com/)** : GitBook es una moderna caja de herramientas. Hace escribir y colaborar fácil. Soporta Markdown y está relacionado con nuestro querido Github.
- 
+
 
 ## Sintaxe de Markdown  
 Toda la sintaxis se puede encontrar [acá](https://daringfireball.net/projects/markdown/syntax) . Cuestaun poco escribir sintaxis en texto (ya que será parseada y formateada), así que por favor considera esta tabla de abajo como la sintaxis básica de Markdown.  
