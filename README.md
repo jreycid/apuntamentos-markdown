@@ -45,6 +45,8 @@ Pode exportar o resultado do seu traballo en HTML, HTML + CSS, Markdown e PDF e 
 * **[*Macdown*](http://macdown.uranusjr.com/)** : Editor de código aberto para macOS, lanzado baixo a licenza MIT.
 * **[*Gitbook*](http://www.gitbook.com/)** : É moito mais que un editor. GitBook é unha excelente ferramenta para crear documentación de proxectos e libros técnicos usando Markdown e Git/GitHub, de maneira que sexan facilmente editables e abertos a contribucións.
 
+Ademais, moitas aplicacións de notas como [*Notion*](https://www.notion.so/es-es), [*Trello*](https://trello.com/es), [*Todoist*](https://todoist.com/es), [*Bear*](https://bear.app/) ou [*TakeNote*](https://takenote.dev/app) aceptan o uso de Markdown.
+
 ## Sintaxe básica de Markdown  
 Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxina](https://daringfireball.net/projects/markdown/syntax). Así que considera a seguinte táboa como un resumo coa sintaxe básica de Markdown.
 
