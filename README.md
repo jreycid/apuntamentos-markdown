@@ -3,7 +3,7 @@
 Benvido, aquí aprenderás a sintaxe básica desta linguaxe de marcado.
 
 > [!TIP]
-> Markdown é o formato usado por defecto en GitHub e case calquera ferramenta relacionada co mundo da programación. Isto significa que si eres programador necesitarás Markdown na túa vida dun xeito ou doutro.
+> Markdown é o formato usado por defecto en GitHub e case calquera ferramenta relacionada co mundo da programación. Isto significa que se es programador necesitarás Markdown na túa vida dun xeito ou doutro.
 
 *******
 Táboa de contidos
@@ -19,16 +19,15 @@ Dacordo coa Wikipedia:
  
   >*Markdown é unha linguaxe de marcado lixeira creada por John Gruber que busca conseguir a máxima lexibilidade e publicabilidade tanto na súa forma de entrada como de saída, inspirándose en moitas convencións existentes para marcar mensaxes de correo electrónico mediante texto simple. Distribúese baixo a licenza BSD e distribúese como compoñente (ou polo menos dispoñible) en diferentes sistemas de xestión de contidos (CMS). Markdown converte o texto marcado en documentos XHTML usando html2text creado por Aaron Swartz. Markdown foi implementado orixinalmente en Perl por Gruber, pero desde entón foi traducido a multitude de linguaxes de programación, incluíndo PHP, Python, Ruby, Java e Common Lisp.* 
 
-Dito de maneira mais sinxela, Markdown é un formato de texto (con extension .md) sinxelo para escribir documentos estruturados.  
-Grazas a súa facilidade de escritura e lexibilidade, atópase amplamente extendido para escritura de todo tipo de documentación técnica.
-
-É dicir, Markdown é unha linguaxe de marcado coa que pode engadir formato a documentos de texto plano. A día de hoxe é unha das linguaxes de marcado máis famosas e a súa popularidade débese a que é sinxelo, lixeiro e fácil de aprender, incluso para quenes non teñen un perfil técnico.
+É dicir, Markdown é unha linguaxe de marcado coa que pode engadir formato a documentos de texto plano.  
+A día de hoxe é unha das linguaxes de marcado máis empregadas, xa que é sinxela, lixeira e fácil de aprender, incluso para quenes non teñen un perfil técnico.
 
 <div id='porque'/>  
 
-*Non hai un estándar de Markdown ben definido. Isto provocou fragmentación, xa que varios fabricantes escriben as súas propias versións do idioma para corrixir detalles ou engadir funcións que faltan... Hai unha lista dalgunhas versións dispoñibles [aquí.](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).*
+Probablemente o maoir problema de Markdown sexa que carece dun estándar ben definido. Isto débese a que o seu creador está en contra da definición dun estándar, xa que considera que parte do éxito de Markdown débese a posibilidade de adaptalo e engadirlle funcións segundo as necesidades de cada quen (flavours). Este feito provoca fragmentación e algúns problemas de incompatibilidade, xa que distintas organizacións escriben as súas propias versións do idioma para corrixir detalles ou engadir funcións que este se adapte mellor ás súas necesidades.  
+Hai unha lista dalgunhas variacións dispoñibles [aquí.](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).
 
-Esta guía centrarase principalmente na propia versión de Github.
+Esta guía centrarase principalmente na propia versión de Github, xa que engade algunhas funcións moi útiles para programadores.
 
 ## Por que empregar Markdown?
 Por que é:
