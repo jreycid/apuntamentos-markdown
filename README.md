@@ -10,7 +10,7 @@ Táboa de contidos
  1. [Que é Markdown?](#que-é-markdown)
  2. [Por que empregar Markdown?](#por-que-empregar-Markdown)
  3. [Editores Markdown](#editores-markdown)
- 4. [Sintaxe de Markdown](#sintaxe-de-markdown)
+ 4. [Sintaxe básica de Markdown](#sintaxe-básica-de-markdown)
 
 *******
  
@@ -46,19 +46,18 @@ Pode exportar o resultado do seu traballo en HTML, HTML + CSS, Markdown e PDF e 
  * **[*GITBOOK*](http://www.gitbook.com/)** : GitBook es una moderna caja de herramientas. Hace escribir y colaborar fácil. Soporta Markdown y está relacionado con nuestro querido Github.
 
 
-## Sintaxe de Markdown  
-Toda la sintaxis se puede encontrar [acá](https://daringfireball.net/projects/markdown/syntax) . Cuestaun poco escribir sintaxis en texto (ya que será parseada y formateada), así que por favor considera esta tabla de abajo como la sintaxis básica de Markdown.  
+## Sintaxe básica de Markdown  
+Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxina](https://daringfireball.net/projects/markdown/syntax). Así que considera a seguinte táboa como un resumo coa sintaxe básica de Markdown.
 
-
-| Formato        | Syntaxis     | Ejemplo |
+| Formato        | Sintaxe     | Exemplo |
 | ------|-----|-----|
-| Itálica  	| \*Texto\* 	| *Esto es itálica* 	|
-| Negritas	| \*\*Negritas\*\* 	| **Esto es negritas** 	|
-| Links inline 	| \[Descripción del texto\](url acá) 	| Un [link](http://www.github.com) 	|
-| Imágenes 	| \![Descripción\](url a la imagen) 	| Una imagen ![image](http://i.imgur.com/hRLuez2.png) 	|
-| Link + imágenes 	| \[\![Descripción\](url a la imagen)\](url a una página)\] 	| Haz  [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
-| Pies de página  	| Tengo más \[^1\] que decir.   \[^1\]: dilo acá. 	| <a href="#section1">Oye, por favor lee esta nota debajo de esta tabla. 	|
-| Salto de línea 	| Doble espacio + enter 	|  	|
+| Cursiva  	| \*Texto\* 	| *Isto é cursiva* 	|
+| Negrita	| \*\*Negritas\*\* 	| **Isto é negrita** 	|
+| Enlaces inline 	| \[Descripción do texto\](url) 	| Un [link](http://www.github.com) 	|
+| Imaxes 	| \![Descripción\](url da imaxe) 	| Unha imaxe ![image](http://i.imgur.com/hRLuez2.png) 	|
+| Link + imaxes 	| \[\![Descripción\](url a la imagen)\](url a una página)\] 	| Haz  [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
+| Pes de páxina  	| Tengo más \[^1\] que decir.   \[^1\]: dilo acá. 	| <a href="#section1">Oye, por favor lee esta nota debajo de esta tabla. 	|
+| Salto de liña 	| Dobre espacio + enter 	|  	|
 | Listas no ordenadas	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
 | Listas ordenadas 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
 | Listas combinadas 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
