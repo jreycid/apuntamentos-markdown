@@ -9,7 +9,7 @@ Benvido, aquí aprenderás a sintaxe básica desta linguaxe de marcado.
 Táboa de contidos
  1. [Que é Markdown?](#que-é-markdown)
  2. [Por qué empregar Markdown?](#porque)
- 3. [Herramientas para Markdown](#herramientas-para-markdown)
+ 3. [Editores Markdown](#editores-markdown)
  4. [Sintaxis de Markdown](#sintaxis-de-markdown)
 
 *******
@@ -39,15 +39,13 @@ Por que é:
  * **Portable** : É independiente da plataforma na que o executes, xa que podes crear documentos de Markdown en calquera sistema operativo. Ademais, ficheiros Markdown pódense abrir con calquera editor de texto. Se creaches un documento cun editor pero despois cambias de opinión e prefires usar outro, podes abrir o documento no novo editor sen realizar ningunha conversión.
 <br></br>
 
-## Herramientas para Markdown
+## Editores Markdown
 Como se dijo anteriormente, cualquier editor puede ser usado para escribir Markdon. De cualquier forma, hay algunas herramientas que pueden ser útiles a la hora de editar Markdown.
 
  * **[*Stackedit*](https://stackedit.io)** : De acuerdo, puedes dejar de leer ahora mismo. Da click al link y empieza a tu viaje a Markdown de la manera más fácil posible. Únicamente escribe texto normal y usa tu mouse, click click, hecho. Es bueno, pero te hará dependiente y muchos desarrolladores prefieren los teclados.
- * **[*Dillinger*](http://dillinger.io/)** : Herramienta online, soporta vista previa en edición(pantalla dividida) y puedes exportar a HTML. Nada especial, pero muy bien hecho y útil.
- * **[*Typora*](https://www.typora.io/)** : Disponible para Mac y Windows, minimalista, libre de distracciones, vista previa sin interrupciones, cargado con muchas características como imágenes, listas, tablas, bloques de código, bloques de expresiones matemáticas, YAML, texto preliminar, tablas de contenido..., etc.
+ * **[*Editormarkdown*](https://editormarkdown.com/)** : Ferramenta online, soporta vista previa en edición(pantalla dividida) y puedes exportar a HTML. Nada especial, pero muy bien hecho y útil.
  * **[*Macdown*](http://macdown.uranusjr.com/)** : Lo mejor para Mac.
- * **[*MarkdownPad*](http://markdownpad.com/)** : Lo mejor para Windows.
- * **[*Remarkable*](https://remarkableapp.github.io/)** : Lo mejor para Linux. 
+ * **[*Remarkable*](https://remarkableapp.github.io/)** : Conta con versión para Windows e Linux
  * **[*GITBOOK*](http://www.gitbook.com/)** : GitBook es una moderna caja de herramientas. Hace escribir y colaborar fácil. Soporta Markdown y está relacionado con nuestro querido Github.
  
 
