@@ -22,10 +22,9 @@ De acordo coa Wikipedia:
 É dicir, Markdown é unha linguaxe de marcado coa que pode engadir formato a documentos de texto plano.  
 A día de hoxe é unha das linguaxes de marcado máis empregadas, xa que é sinxela, lixeira e fácil de aprender, incluso para quenes non teñen un perfil técnico.
 
-Probablemente o maoir problema de Markdown sexa que carece dun estándar ben definido. Isto débese a que o seu creador está en contra da definición dun estándar, xa que considera que parte do éxito de Markdown débese a posibilidade de adaptalo e engadirlle funcións segundo as necesidades de cada quen (flavours). Este feito provoca fragmentación e algúns problemas de incompatibilidade, xa que distintas organizacións escriben as súas propias versións para corrixir algúns detalles ou engadir novas funcionalidades que fagan que se adapte mellor ás súas necesidades.  
-Hai unha lista dalgunhas variacións dispoñibles [aquí.](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).
+Probablemente o maoir problema de Markdown sexa que carece dun estándar ben definido. Isto débese a que o seu creador está en contra da definición dun estándar, xa que considera que parte do éxito de Markdown débese a posibilidade de adaptalo e engadirlle funcións segundo as necesidades de cada quen (flavours). Este feito provoca fragmentación e algúns problemas de incompatibilidade, xa que distintas organizacións escriben as súas propias versións para corrixir algúns detalles ou engadir novas funcionalidades que fagan que se adapte mellor ás súas necesidades. Esta guía centrarase principalmente na propia versión de Github, xa que engade algunhas funcións moi útiles para programadores.
 
-Esta guía centrarase principalmente na propia versión de Github, xa que engade algunhas funcións moi útiles para programadores.
+Podes consultar unha lista dalgunhas variacións na seguinte ligazón [aquí.](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).
 
 ## Por que empregar Markdown?
 Por que é:
