@@ -38,8 +38,8 @@ Por que é:
 ## Editores Markdown
 Se ben se pode empregar calquera editor para escribir Markdown, as seguintes ferramentas dedicadas son especialmente recomendables.
 
- * **[*Stackedit*](https://stackedit.io)** : De acuerdo, puedes dejar de leer ahora mismo. Da click al link y empieza a tu viaje a Markdown de la manera más fácil posible. Únicamente escribe texto normal y usa tu mouse, click click, hecho. Es bueno, pero te hará dependiente y muchos desarrolladores prefieren los teclados.
- * **[*Editormarkdown*](https://editormarkdown.com/)** : Funciona sen rexistro previo e é de código aberto. O sitio web está dividido en dúas áreas, no lado esquerdo escribes o teu texto en formato Markdown e na parte dereita podes ver en tempo real a saída do documento xa formateado.  
+ * **[*Stackedit*](https://stackedit.io)** : Editor de Markdown en liña gratuíto cargado de funcións útiles como por exemplo unha barra de ferramentas visual para o formato (negriña, énfase, listas, etc.). Pode sincronizarse con servizos de almacenamento na nube como Dropbox e Google Drive, e importar ficheiros desde un URL ou o disco duro do teu ordenador. Outra característica útil deste editor é que pode converter HTML en Markdown.
+ * **[*Editor markdown*](https://editormarkdown.com/)** : Funciona sen rexistro previo e é de código aberto. O sitio web está dividido en dúas áreas, no lado esquerdo escribes o teu texto en formato Markdown e na parte dereita podes ver en tempo real a saída do documento xa formateado.  
 Pode exportar o resultado do seu traballo en HTML, HTML + CSS, Markdown e PDF e almacenalo no teu propio ordenador. Ademais, permite importar ficheiros desde local, GitHub, BitBucket e DropBox e gardar o resultado tanto en GitHuib como en DropBox.
  * **[*Macdown*](http://macdown.uranusjr.com/)** : Lo mejor para Mac.
  * **[*Remarkable*](https://remarkableapp.github.io/)** : Conta con versión para Windows e Linux
