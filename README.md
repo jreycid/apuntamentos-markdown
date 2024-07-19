@@ -24,7 +24,7 @@ A día de hoxe é unha das linguaxes de marcado máis empregadas, xa que é sinx
 
 <div id='porque'/>  
 
-Probablemente o maoir problema de Markdown sexa que carece dun estándar ben definido. Isto débese a que o seu creador está en contra da definición dun estándar, xa que considera que parte do éxito de Markdown débese a posibilidade de adaptalo e engadirlle funcións segundo as necesidades de cada quen (flavours). Este feito provoca fragmentación e algúns problemas de incompatibilidade, xa que distintas organizacións escriben as súas propias versións do idioma para corrixir detalles ou engadir funcións que este se adapte mellor ás súas necesidades.  
+Probablemente o maoir problema de Markdown sexa que carece dun estándar ben definido. Isto débese a que o seu creador está en contra da definición dun estándar, xa que considera que parte do éxito de Markdown débese a posibilidade de adaptalo e engadirlle funcións segundo as necesidades de cada quen (flavours). Este feito provoca fragmentación e algúns problemas de incompatibilidade, xa que distintas organizacións escriben as súas propias versións para corrixir algúns detalles ou engadir novas funcións que fagan que se adapte mellor ás súas necesidades.  
 Hai unha lista dalgunhas variacións dispoñibles [aquí.](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).
 
 Esta guía centrarase principalmente na propia versión de Github, xa que engade algunhas funcións moi útiles para programadores.
