@@ -45,8 +45,6 @@ Como se dijo anteriormente, cualquier editor puede ser usado para escribir Markd
  * **[*Stackedit*](https://stackedit.io)** : De acuerdo, puedes dejar de leer ahora mismo. Da click al link y empieza a tu viaje a Markdown de la manera más fácil posible. Únicamente escribe texto normal y usa tu mouse, click click, hecho. Es bueno, pero te hará dependiente y muchos desarrolladores prefieren los teclados.
  * **[*Dillinger*](http://dillinger.io/)** : Herramienta online, soporta vista previa en edición(pantalla dividida) y puedes exportar a HTML. Nada especial, pero muy bien hecho y útil.
  * **[*Typora*](https://www.typora.io/)** : Disponible para Mac y Windows, minimalista, libre de distracciones, vista previa sin interrupciones, cargado con muchas características como imágenes, listas, tablas, bloques de código, bloques de expresiones matemáticas, YAML, texto preliminar, tablas de contenido..., etc.
- * **[*Atom*](https://atom.io/)** : Editor muy popular y altamente configurable (tal vez lo estés usando), ¡Sí!, es versátil. ¿Soporte para markdown?, es una pequeña parte del editor, pero ya viene incluida.
- * **[*Minimalist Markdown*](https://chrome.google.com/webstore/detail/minimalist-markdown-edito/pghodfjepegmciihfhdipmimghiakcjf?hl=en)** : App de Chrome. Funciona en todos lados si tienes Chrome instalado (es mi favorita).
  * **[*Macdown*](http://macdown.uranusjr.com/)** : Lo mejor para Mac.
  * **[*MarkdownPad*](http://markdownpad.com/)** : Lo mejor para Windows.
  * **[*Remarkable*](https://remarkableapp.github.io/)** : Lo mejor para Linux. 
