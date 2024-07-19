@@ -41,10 +41,9 @@ Se ben se pode empregar calquera editor para escribir Markdown, as seguintes fer
  * **[*Editor markdown*](https://editormarkdown.com/)** : Funciona sen rexistro previo e é de código aberto. O sitio web está dividido en dúas áreas, no lado esquerdo escribes o teu texto en formato Markdown e na parte dereita podes ver en tempo real a saída do documento xa formateado.  
 Pode exportar o resultado do seu traballo en HTML, HTML + CSS, Markdown e PDF e almacenalo no teu propio ordenador. Ademais, permite importar ficheiros desde local, GitHub, BitBucket e DropBox e gardar o resultado tanto en GitHuib como en DropBox.
  * **[*Stackedit*](https://stackedit.io)** : Editor de Markdown en liña gratuíto cargado de funcións útiles como por exemplo unha barra de ferramentas visual para o formato (negriña, énfase, listas, etc.). Pode sincronizarse con servizos de almacenamento na nube como Dropbox e Google Drive, e importar ficheiros desde un URL ou o disco duro do teu ordenador. Outra característica útil deste editor é que pode converter HTML en Markdown.
- * **[*Macdown*](http://macdown.uranusjr.com/)** : Editor de código aberto para macOS, lanzado baixo a licenza MIT. 
- * **[*Remarkable*](https://remarkableapp.github.io/)** : Conta con versión para Windows e Linux
+ * **[*Remarkable*](https://remarkableapp.github.io/)** : Conta con versión para Linux, a versión para Windows está en desenvolvemento. O sitio web está dividido en dúas áreas, no lado esquerdo escribes o teu texto en formato Markdown e na parte dereita podes ver en tempo real a saída do documento xa formateado. Emprega a variación de Markdown de GitHub, admite CSS e permite exportar a HTML, e PDF.
  * **[*GITBOOK*](http://www.gitbook.com/)** : GitBook es una moderna caja de herramientas. Hace escribir y colaborar fácil. Soporta Markdown y está relacionado con nuestro querido Github.
-
+* **[*Macdown*](http://macdown.uranusjr.com/)** : Editor de código aberto para macOS, lanzado baixo a licenza MIT. 
 
 ## Sintaxe básica de Markdown  
 Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxina](https://daringfireball.net/projects/markdown/syntax). Así que considera a seguinte táboa como un resumo coa sintaxe básica de Markdown.
