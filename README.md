@@ -36,12 +36,12 @@ Por que é:
  * **Portable** : É independiente da plataforma na que o executes, xa que podes crear documentos de Markdown en calquera sistema operativo. Ademais, ficheiros Markdown pódense abrir con calquera editor de texto. Se creaches un documento cun editor pero despois cambias de opinión e prefires usar outro, podes abrir o documento no novo editor sen realizar ningunha conversión.
 
 ## Editores Markdown
-Se ben se pode empregar calquera editor para escribir Markdown, as seguintes ferramentas dedicadas son especialmente recomendables.
+Se ben se pode empregar calquera editor para escribir Markdown, as seguintes ferramentas dedicadas son especialmente recomendables, ademais de gratuitas.
 
  * **[*Stackedit*](https://stackedit.io)** : Editor de Markdown en liña gratuíto cargado de funcións útiles como por exemplo unha barra de ferramentas visual para o formato (negriña, énfase, listas, etc.). Pode sincronizarse con servizos de almacenamento na nube como Dropbox e Google Drive, e importar ficheiros desde un URL ou o disco duro do teu ordenador. Outra característica útil deste editor é que pode converter HTML en Markdown.
  * **[*Editor markdown*](https://editormarkdown.com/)** : Funciona sen rexistro previo e é de código aberto. O sitio web está dividido en dúas áreas, no lado esquerdo escribes o teu texto en formato Markdown e na parte dereita podes ver en tempo real a saída do documento xa formateado.  
 Pode exportar o resultado do seu traballo en HTML, HTML + CSS, Markdown e PDF e almacenalo no teu propio ordenador. Ademais, permite importar ficheiros desde local, GitHub, BitBucket e DropBox e gardar o resultado tanto en GitHuib como en DropBox.
- * **[*Macdown*](http://macdown.uranusjr.com/)** : Lo mejor para Mac.
+ * **[*Macdown*](http://macdown.uranusjr.com/)** : Editor de código aberto para macOS, lanzado baixo a licenza MIT. 
  * **[*Remarkable*](https://remarkableapp.github.io/)** : Conta con versión para Windows e Linux
  * **[*GITBOOK*](http://www.gitbook.com/)** : GitBook es una moderna caja de herramientas. Hace escribir y colaborar fácil. Soporta Markdown y está relacionado con nuestro querido Github.
 
