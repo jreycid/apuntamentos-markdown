@@ -8,7 +8,7 @@ Benvido, aquí aprenderás a sintaxe básica desta linguaxe de marcado.
 *******
 Táboa de contidos
  1. [Que é Markdown?](#que-é-markdown)
- 2. [Por qué empregar Markdown?](#porque)
+ 2. [Por que empregar Markdown?](#por-que-empregar-Markdown)
  3. [Editores Markdown](#editores-markdown)
  4. [Sintaxis de Markdown](#sintaxis-de-markdown)
 
@@ -21,8 +21,6 @@ Dacordo coa Wikipedia:
 
 É dicir, Markdown é unha linguaxe de marcado coa que pode engadir formato a documentos de texto plano.  
 A día de hoxe é unha das linguaxes de marcado máis empregadas, xa que é sinxela, lixeira e fácil de aprender, incluso para quenes non teñen un perfil técnico.
-
-<div id='porque'/>  
 
 Probablemente o maoir problema de Markdown sexa que carece dun estándar ben definido. Isto débese a que o seu creador está en contra da definición dun estándar, xa que considera que parte do éxito de Markdown débese a posibilidade de adaptalo e engadirlle funcións segundo as necesidades de cada quen (flavours). Este feito provoca fragmentación e algúns problemas de incompatibilidade, xa que distintas organizacións escriben as súas propias versións para corrixir algúns detalles ou engadir novas funcionalidades que fagan que se adapte mellor ás súas necesidades.  
 Hai unha lista dalgunhas variacións dispoñibles [aquí.](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).
