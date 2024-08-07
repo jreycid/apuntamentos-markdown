@@ -24,7 +24,7 @@ A día de hoxe é unha das linguaxes de marcado máis empregadas, xa que é sinx
 
 Probablemente o maoir problema de Markdown sexa que carece dun estándar ben definido. Isto débese a que o seu creador está en contra da definición dun estándar, xa que considera que parte do éxito de Markdown débese a posibilidade de adaptalo e engadirlle funcións segundo as necesidades de cada quen (flavours). Este feito provoca fragmentación e algúns problemas de incompatibilidade, xa que distintas organizacións escriben as súas propias versións para corrixir algúns detalles ou engadir novas funcionalidades que fagan que se adapte mellor ás súas necesidades. Esta guía centrarase principalmente na propia versión de Github, xa que engade algunhas funcións moi útiles para programadores.
 
-Podes consultar unha lista dalgunhas variacións na seguinte ligazón [aquí.](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).
+Podes consultar unha lista dalgunhas variacións premendo [aquí.](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).
 
 ## Por que empregar Markdown?
 Por que é:
@@ -72,9 +72,6 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | Táboa 	| \| As táboas   \|      son      \|  xeniais \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 é\|  aliñada á esquerda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 
  <br></br>
- <p id="section1">Nota: **Nota al pie** de hecho, no se ve correctamente en una tabla (y en vista previa de Github).
-Pero es parecida [a](http://i.imgur.com/pmeBr28.png)
-   <br></br>
 
 ## Notas útiles:
  * Para escapar caracteres en Markdown emprégase a barra invertida \
