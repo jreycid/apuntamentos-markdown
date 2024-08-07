@@ -89,6 +89,6 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
   alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   ```
  * Markdown soporta Emojis :laughing: :laughing: :kissing_heart: :innocent: :green_heart: ( consulta algunos emojis [aquí](http://www.emoji-cheat-sheet.com/) )
- * Calquera URL (coma http://www.github.com/) será convertida automáticamente nunha ligazón activa.
+ * Calquera URL, por exemplo http://www.github.com/, será convertida automáticamente nunha ligazón activa.
  * Se queres practicar Markdown, podes facelo online [aquí](http://www.markdowntutorial.com).
 
