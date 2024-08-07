@@ -90,7 +90,7 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
     - [x] Aprender Markdown
     - [ ] Aprender HTML
     - [ ] Aprender CSS
-
+  
  * Aliñamento de datos en táboas:
    ```
    | Left Align (default) | Center Align | Right Align |
