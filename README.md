@@ -81,6 +81,16 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
        println!("¡Ola, Mundo!");
    }
    ```
+ * Listas de tarefas:
+   ```
+   - [x] Aprender Markdown
+   - [ ] Aprender HTML
+   - [ ] Aprender CSS
+   ```
+    - [x] Aprender Markdown
+    - [ ] Aprender HTML
+    - [ ] Aprender CSS
+      
  * Os vídeos de Youtube non se poden engadir directamente, pero podes engadir unha imaxe cunha ligazón ao vídeo do seguinte xeito:
   ```html
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
