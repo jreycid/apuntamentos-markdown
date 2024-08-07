@@ -52,13 +52,13 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 
 | Formato        | Sintaxe     | Exemplo |
 | ------|-----|-----|
-| Encabezados	| \#, \##, \###, \####, \#####, \###### (desde h1 a h6) 	|  <h3>Isto é un encabezado h3</h3>	|
+| Cabeceira	| \#, \##, \###, \####, \#####, \###### (desde h1 a h6) 	|  <h3>Isto é un encabezado h3</h3>	|
 | Cursiva  	| \*Texto\* 	| *Isto é cursiva* 	|
-| Negrita	| \*\*Negritas\*\* 	| **Isto é negrita** 	|
+| Negriña	| \*\*Negriña\*\* 	| **Isto é negriña** 	|
 | Salto de liña 	| Dobre espazo + enter 	|  	|
 | Cambio de parágrafo 	| Liña en branco 	|  	|
 | Texto tachado 	| \~~Inserta texto acá\~~ 	| ~~Morí~~ 	|
-| Pre formato 	| Empieza cada línea con, dos espacios o más para, hacer el texto verse, e x a c t a m e e n t e, como, tú, lo escr.i.b.e.s.|
+| Pre formato 	| Comeza cada liña con, dous espazos ou máis para, amosar o texto, e x a c t a m e e n t e, coma, ti, o escr.i.b.ic.h.e.s.|
 | Cita	| \> Texto citado 	|  <blockquote>Exercer o poder corrompe; someterse ao poder degrada.</blockquote> 	|
 | Ligazón | \[Descripción do texto\](url) 	| Un [Ligazón](http://www.github.com) 	|
 | Imaxe 	| \![Descripción\](url da imaxe) 	| Imaxe sen ligazón ![image](http://i.imgur.com/hRLuez2.png) 	|
