@@ -75,12 +75,10 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
  <p id="section1">Nota: **Nota al pie** de hecho, no se ve correctamente en una tabla (y en vista previa de Github).
 Pero es parecida [a](http://i.imgur.com/pmeBr28.png)
    <br></br>
-   Lo mismo va para **bloques de código/resaltado de sintaxis**. 
-Se ve como ![esta imagen](http://i.imgur.com/z8KrxAz.png).</p>
 
 ## Notas útiles:
  * Para escapar caracteres en Markdown emprégase a barra invertida \
- * Para engadir fragmentos de código nunha linguaxe concreta e resaltalos, engádense 3 backticks antes e despois do bloque de código:
+ * Para engadir fragmentos de código nunha linguaxe concreta e resaltalos, engádense 3 backticks antes (xunto co identificador do idioma), e despois do bloque de código:
    
    ```rust
    // Ola Mundo en Rust
@@ -95,9 +93,6 @@ Se ve como ![esta imagen](http://i.imgur.com/z8KrxAz.png).</p>
   alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   ```
  * Markdown soporta Emojis :laughing: :laughing: :kissing_heart: :innocent: :green_heart: ( consulta algunos emojis [aquí](http://www.emoji-cheat-sheet.com/) )
- * Puedes usar la etiqueta \<br/> para forzar un salto de línea.
- * Doble espacio y enter si quieres agregar una nueva línea.
- * Ver no es tan bueno como practicar. Puedes crear un archivo markdown para que practiques o hacerlo online [aquí](http://www.markdowntutorial.com).
- *  Notas al pie y resaltado de sintaxis no son parte de la versión original de Markdown y solo son soportadas por ciertas versiones. (Retroalimentación de [Sean Brody](https://goo.gl/ASZwEn))
- *  Cualquier URL (como http://www.github.com/) será convertida en un link activo.  
- *  El soporte a las tablas de Markdon está diseñado para soportar la mayoría de tablas para la mayoría de personas; no cubre todas las tablas para todas las personas. Si necesitas tablas más complejas necesitarás herramientas específicamente diseñadas para ello o escribirlas a mano.  
+ * Calquera URL (coma http://www.github.com/) será convertida automáticamente nunha ligazón activa.
+ * Se queres practicar Markdown, podes facelo online [aquí](http://www.markdowntutorial.com).
+
