@@ -68,7 +68,7 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | Lista ordenada 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
 | Lista combinada 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
 | Código 	| \`Inserta código\` 	| ```console.log("Ola Mundo!");``` 	|
-| Bloque de código/ Realtado de sintaxis 	| \`\`\`inserta código\`\`\` 	|  <a href="#section1">Lea a nota debaixo desta táboa.
+| Bloque de código/ Realtado de sintaxe 	| \`\`\`inserta código\`\`\` 	|  (#notas-útiles)
 | Táboa 	| \| As táboas   \|      son      \|  xeniais \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 é\|  aliñada á esquerda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 
  <br></br>
