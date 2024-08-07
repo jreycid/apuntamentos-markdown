@@ -79,7 +79,15 @@ Pero es parecida [a](http://i.imgur.com/pmeBr28.png)
 Se ve como ![esta imagen](http://i.imgur.com/z8KrxAz.png).</p>
 
 ## Notas útiles:
- * Para escapar caracteres en Markdown emprégase a barra invertida \   
+ * Para escapar caracteres en Markdown emprégase a barra invertida \
+ * Para engadir fragmentos de código nunha linguaxe concreta e resaltalos, engádense 3 backticks antes e despois do bloque de código:
+   
+   ```rust
+   // Ola Mundo en Rust
+   fn main() {
+       println!("¡Ola, Mundo!");
+   }
+   ```
  * Os vídeos de Youtube non se poden engadir directamente, pero podes engadir unha imaxe cunha ligazón ao vídeo do seguinte xeito:
   ```html
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
