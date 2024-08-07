@@ -54,7 +54,7 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | ------|-----|-----|
 | Cabeceira	| \#, \##, \###, \####, \#####, \###### (desde h1 a h6) 	|  <h3>Isto é un encabezado h3</h3>	|
 | Cursiva  	| \*Texto\* 	| *Isto é cursiva* 	|
-| Negriña	| \*\*Negriña\*\* 	| **Isto é negriña** 	|
+| Negriña	| \*\*Texto\*\* 	| **Isto é negriña** 	|
 | Salto de liña 	| Dobre espazo + enter 	|  	|
 | Cambio de parágrafo 	| Liña en branco 	|  	|
 | Texto tachado 	| \~~Inserta texto acá\~~ 	| ~~Morí~~ 	|
