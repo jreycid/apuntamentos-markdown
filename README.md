@@ -57,13 +57,13 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | Negriña	| \*\*Texto\*\* 	| **Isto é negriña** 	|
 | Salto de liña 	| Dobre espazo + enter 	|  	|
 | Cambio de parágrafo 	| Liña en branco 	|  	|
-| Texto tachado 	| \~~Inserta texto acá\~~ 	| ~~Morí~~ 	|
-| Pre formato 	| Comeza cada liña con, dous espazos ou máis para, amosar o texto, e x a c t a m e e n t e, coma, ti, o escr.i.b.ic.h.e.s.|
+| Texto cruzado 	| \~~Texto\~~ 	| ~~Texto cruzado~~ 	|
+| Pre formato 	| Comeza cada liña con, dous espazos ou máis para, amosar o texto, e x a c t a m e n t e, coma, ti, o escr.i.b.ic.h.e.s.|
 | Cita	| \> Texto citado 	|  <blockquote>Exercer o poder corrompe; someterse ao poder degrada.</blockquote> 	|
-| Ligazón | \[Descripción do texto\](url) 	| Un [Ligazón](http://www.github.com) 	|
+| Ligazón | \[Descripción do texto\](url) 	| Unha [Ligazón](http://www.github.com) 	|
 | Imaxe 	| \![Descripción\](url da imaxe) 	| Imaxe sen ligazón ![image](http://i.imgur.com/hRLuez2.png) 	|
 | Ligazón + imaxe	| \[\![Descrición\](url á imaxe)\](url da páxina)\] 	| Imaxe con ligazón [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
-| Pé de páxina  	| Tengo más \[^1\] que decir.   \[^1\]: dilo acá. 	| <a href="#section1">Oye, por favor lee esta nota debajo de esta tabla. 	|
+| Pé de páxina  	| Texto que contén a ligazón ao pé de páxina \[^1\].   \[^1\]: Pé de páxina. 	|  	|
 | Lista non ordenada	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
 | Lista ordenada 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
 | Lista combinadas 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
