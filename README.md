@@ -52,7 +52,7 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 
 | Formato        | Sintaxe     | Exemplo |
 | ------|-----|-----|
-| Encabezados	| \#, \##, \###, \####, \#####, \###### (desde h1 a h6) 	|  <h3>Esto es un encabezado h3</h3>	|
+| Encabezados	| \#, \##, \###, \####, \#####, \###### (desde h1 a h6) 	|  <h3>Isto é un encabezado h3</h3>	|
 | Cursiva  	| \*Texto\* 	| *Isto é cursiva* 	|
 | Negrita	| \*\*Negritas\*\* 	| **Isto é negrita** 	|
 | Salto de liña 	| Dobre espazo + enter 	|  	|
