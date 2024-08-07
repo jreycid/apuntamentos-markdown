@@ -74,7 +74,7 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 ## Notas útiles:
  * Para escapar caracteres en Markdown emprégase a barra invertida \
  * Para engadir fragmentos de código nunha linguaxe concreta e resaltalos, engádense 3 backticks antes (xunto co identificador do idioma), e despois do bloque de código:
-   
+
    ```rust
    // Ola Mundo en Rust
    fn main() {
