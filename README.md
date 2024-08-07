@@ -110,7 +110,7 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
   " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
   alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   ```
- * Markdown soporta Emojis :laughing: :laughing: :kissing_heart: :innocent: :green_heart: ( consulta algunos emojis [aquí](http://www.emoji-cheat-sheet.com/) )
+ * Markdown soporta Emojis :laughing: :laughing: :kissing_heart: :innocent: :green_heart: ( consulta algúns emojis [aquí](http://www.emoji-cheat-sheet.com/) )
  * Calquera URL, por exemplo http://www.github.com/, será convertida automáticamente nunha ligazón activa.
  * Se queres practicar Markdown, podes facelo online [aquí](http://www.markdowntutorial.com).
 
