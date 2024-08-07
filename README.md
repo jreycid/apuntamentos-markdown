@@ -71,7 +71,6 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | Bloque de código/ Realtado de sintaxe 	| \`\`\`inserta código\`\`\` 	|  (#notas-útiles)
 | Táboa 	| \| As táboas   \|      son      \|  xeniais \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 é\|  aliñada á esquerda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 
- <br></br>
 
 ## Notas útiles:
  * Para escapar caracteres en Markdown emprégase a barra invertida \
