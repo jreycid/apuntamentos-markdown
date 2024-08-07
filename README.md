@@ -55,8 +55,8 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | Cursiva  	| \*Texto\* 	| *Isto é cursiva* 	|
 | Negrita	| \*\*Negritas\*\* 	| **Isto é negrita** 	|
 | Ligazón | \[Descripción do texto\](url) 	| Un [Ligazón](http://www.github.com) 	|
-| Imaxe 	| \![Descripción\](url da imaxe) 	| Unha imaxe ![image](http://i.imgur.com/hRLuez2.png) 	|
-| Ligazón + imaxe	| \[\![Descripción\](url á imaxe)\](url da páxina)\] 	| [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
+| Imaxe 	| \![Descripción\](url da imaxe) 	| Imaxe ![image](http://i.imgur.com/hRLuez2.png) 	|
+| Ligazón + imaxe	| \[\![Descripción\](url á imaxe)\](url da páxina)\] 	| Imaxe con ligazón [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
 | Pé de páxina  	| Tengo más \[^1\] que decir.   \[^1\]: dilo acá. 	| <a href="#section1">Oye, por favor lee esta nota debajo de esta tabla. 	|
 | Salto de liña 	| Dobre espacio + enter 	|  	|
 | Listas no ordenadas	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
