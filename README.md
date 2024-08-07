@@ -52,22 +52,23 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 
 | Formato        | Sintaxe     | Exemplo |
 | ------|-----|-----|
+| Encabezados	| \#, \##, \###, \####, \#####, \###### (desde h1 a h6) 	|  <h3>Esto es un encabezado h3</h3>	|
 | Cursiva  	| \*Texto\* 	| *Isto é cursiva* 	|
 | Negrita	| \*\*Negritas\*\* 	| **Isto é negrita** 	|
+| Salto de liña 	| Dobre espazo + enter 	|  	|
+| Cambio de parágrafo 	| Liña en branco 	|  	|
+| Texto tachado 	| \~~Inserta texto acá\~~ 	| ~~Morí~~ 	|
+| Pre formato 	| Empieza cada línea con, dos espacios o más para, hacer el texto verse, e x a c t a m e e n t e, como, tú, lo escr.i.b.e.s.|
+| Cita	| \> Texto citado 	|  <blockquote>Exercer o poder corrompe; someterse ao poder degrada.</blockquote> 	|
 | Ligazón | \[Descripción do texto\](url) 	| Un [Ligazón](http://www.github.com) 	|
 | Imaxe 	| \![Descripción\](url da imaxe) 	| Imaxe sen ligazón ![image](http://i.imgur.com/hRLuez2.png) 	|
-| Ligazón + imaxe	| \[\![Descripción\](url á imaxe)\](url da páxina)\] 	| Imaxe con ligazón [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
+| Ligazón + imaxe	| \[\![Descrición\](url á imaxe)\](url da páxina)\] 	| Imaxe con ligazón [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
 | Pé de páxina  	| Tengo más \[^1\] que decir.   \[^1\]: dilo acá. 	| <a href="#section1">Oye, por favor lee esta nota debajo de esta tabla. 	|
-| Salto de liña 	| Dobre espazo + enter 	|  	|
 | Lista non ordenada	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
 | Lista ordenada 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
 | Lista combinadas 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
-| Cita	| \> Texto citado 	|  <blockquote>Exercer o poder corrompe; someterse ao poder degrada.</blockquote> 	|
-| Pre formato 	| Empieza cada línea con, dos espacios o más para, hacer el texto verse, e x a c t a m e e n t e, como, tú, lo escr.i.b.e.s.|
 | Código 	| \`Inserta código\` 	| `cout<<"Hello world";` 	|
 | Bloque de código/ Realtado de sintaxis 	| \`\`\`inserta código\`\`\` 	|  <a href="#section1">Oye, por favor lee la nota debajo de esta tabla.
-| Encabezados	| \#, \##, \###, \####, \#####, \###### (desde h1 a h6) 	|  <h3>Esto es un encabezado h3</h3>	|
-| Texto tachado 	| \~~Inserta texto acá\~~ 	| ~~Morí~~ 	|
 | Tablas 	| \| Las tablas   \|      son      \|  geniales \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 es\|  alineada a la izquierda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 
  <br></br>
