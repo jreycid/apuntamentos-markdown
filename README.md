@@ -54,10 +54,10 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | ------|-----|-----|
 | Cursiva  	| \*Texto\* 	| *Isto é cursiva* 	|
 | Negrita	| \*\*Negritas\*\* 	| **Isto é negrita** 	|
-| Enlaces inline 	| \[Descripción do texto\](url) 	| Un [link](http://www.github.com) 	|
-| Imaxes 	| \![Descripción\](url da imaxe) 	| Unha imaxe ![image](http://i.imgur.com/hRLuez2.png) 	|
-| Link + imaxes 	| \[\![Descripción\](url a la imagen)\](url a una página)\] 	| Haz  [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
-| Pes de páxina  	| Tengo más \[^1\] que decir.   \[^1\]: dilo acá. 	| <a href="#section1">Oye, por favor lee esta nota debajo de esta tabla. 	|
+| Ligazón | \[Descripción do texto\](url) 	| Un [Ligazón](http://www.github.com) 	|
+| Imaxe 	| \![Descripción\](url da imaxe) 	| Unha imaxe ![image](http://i.imgur.com/hRLuez2.png) 	|
+| Ligazón + imaxe	| \[\![Descripción\](url á imaxe)\](url da páxina)\] 	| [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
+| Pé de páxina  	| Tengo más \[^1\] que decir.   \[^1\]: dilo acá. 	| <a href="#section1">Oye, por favor lee esta nota debajo de esta tabla. 	|
 | Salto de liña 	| Dobre espacio + enter 	|  	|
 | Listas no ordenadas	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
 | Listas ordenadas 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
