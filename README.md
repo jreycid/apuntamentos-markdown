@@ -67,7 +67,7 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | Lista non ordenada	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
 | Lista ordenada 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
 | Lista combinada 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
-| Código 	| \`Inserta código\` 	| `cout<<"Hello world";` 	|
+| Código 	| \`Inserta código\` 	| ```js console.log("Ola Mundo!");``` 	|
 | Bloque de código/ Realtado de sintaxis 	| \`\`\`inserta código\`\`\` 	|  <a href="#section1">Oye, por favor lee la nota debajo de esta tabla.
 | Táboa 	| \| As tablas   \|      son      \|  xeniais \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 es\|  alineada a la izquierda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 
