@@ -90,7 +90,20 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
     - [x] Aprender Markdown
     - [ ] Aprender HTML
     - [ ] Aprender CSS
-      
+
+ * Aliñamento de datos en táboas:
+   ```
+   | Left Align (default) | Center Align | Right Align |
+   | :------------------- | :----------: | ----------: |
+   | React.js             | Node.js      | MySQL       |
+   | Next.js              | Express      | MongoDB     |
+   | Vue.js               | Nest.js      | Redis       |
+   ```
+   | Left Align (default) | Center Align | Right Align |
+   | :------------------- | :----------: | ----------: |
+   | React.js             | Node.js      | MySQL       |
+   | Next.js              | Express      | MongoDB     |
+   | Vue.js               | Nest.js      | Redis       |
  * Os vídeos de Youtube non se poden engadir directamente, pero podes engadir unha imaxe cunha ligazón ao vídeo do seguinte xeito:
   ```html
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
