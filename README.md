@@ -66,10 +66,10 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | Ligazón + imaxe	| \[\![Descrición\](url á imaxe)\](url da páxina)\] 	| [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
 | Lista non ordenada	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
 | Lista ordenada 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
-| Lista combinadas 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
+| Lista combinada 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
 | Código 	| \`Inserta código\` 	| `cout<<"Hello world";` 	|
 | Bloque de código/ Realtado de sintaxis 	| \`\`\`inserta código\`\`\` 	|  <a href="#section1">Oye, por favor lee la nota debajo de esta tabla.
-| Tablas 	| \| Las tablas   \|      son      \|  geniales \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 es\|  alineada a la izquierda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
+| Táboa 	| \| As tablas   \|      son      \|  xeniais \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 es\|  alineada a la izquierda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 
  <br></br>
  <p id="section1">Nota: **Nota al pie** de hecho, no se ve correctamente en una tabla (y en vista previa de Github).
