@@ -60,7 +60,7 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | Texto cruzado 	| \~~Texto\~~ 	| ~~Texto cruzado~~ 	|
 | Pre formato 	| Comeza cada liña con, dous espazos ou máis para, amosar o texto, e x a c t a m e n t e, coma, ti, o escr.i.b.ic.h.e.s.|
 | Cita	| \> Texto citado 	|  <blockquote>Exercer o poder corrompe; someterse ao poder degrada.</blockquote> 	|
-| Pé de páxina  	| Texto que contén a ligazón ao pé de páxina \[^1\].   \[^1\]: Pé de páxina. | ![](http://imgur.com/pmeBr28) |
+| Pé de páxina  	| Texto que contén a ligazón ao pé de páxina \[^1\].   \[^1\]: Pé de páxina. | hola ![](http://imgur.com/pmeBr28) |
 | Ligazón | \[Descripción do texto\](url) 	| Unha [Ligazón](http://www.github.com) 	|
 | Imaxe 	| \![Descripción\](url da imaxe) 	| ![image](http://i.imgur.com/hRLuez2.png) 	|
 | Ligazón + imaxe	| \[\![Descrición\](url á imaxe)\](url da páxina)\] 	| [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
