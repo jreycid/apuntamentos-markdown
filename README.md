@@ -78,14 +78,10 @@ Pero es parecida [a](http://i.imgur.com/pmeBr28.png)
    Lo mismo va para **bloques de código/resaltado de sintaxis**. 
 Se ve como ![esta imagen](http://i.imgur.com/z8KrxAz.png).</p>
 
-Estas características dependen de cada versión de markdown.
-
 ## Notas útiles:
- * Markdown permite usar diagonal  invertida para generar caracteres que de otra forma serían reconocidos por la sintaxis especial. Un caracter muy usado comúnmente como escape es \     
-`Luego, \*ESTO\*  no es itálica, sin embargo está precedido literalmente por asteriscos.`
- * Los videos de Youtube requieren un poco más de trabajo adicional.
-  ```
-  No pueden ser agregados diretamente, sin embargo, puedes agregar una imágen con un link al video de la siguiente manera:
+ * Para escapar caracteres en Markdown emprégase a barra invertida \   
+ * Os vídeos de Youtube non se poden engadir directamente, pero podes engadir unha imaxe cunha ligazón ao vídeo do seguinte xeito:
+  ```html
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
   " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
   alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
