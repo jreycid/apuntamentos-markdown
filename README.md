@@ -60,7 +60,7 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | Texto cruzado 	| \~~Texto\~~ 	| ~~Texto cruzado~~ 	|
 | Pre formato 	| Comeza cada liña con, dous espazos ou máis para, amosar o texto, e x a c t a m e n t e, coma, ti, o escr.i.b.ic.h.e.s.|
 | Cita	| \> Texto citado 	|  <blockquote>Exercer o poder corrompe; someterse ao poder degrada.</blockquote> 	|
-| Pé de páxina  	| Texto que contén a ligazón ao pé de páxina \[^1\].   \[^1\]: Pé de páxina. | hola ![](http://imgur.com/pmeBr28) |
+| Pé de páxina  	| Texto que contén a ligazón ao pé de páxina \[^1\].   \[^1\]: Pé de páxina. | ![](http://imgur.com/pmeBr28.png) |
 | Ligazón | \[Descripción do texto\](url) 	| Unha [Ligazón](http://www.github.com) 	|
 | Imaxe 	| \![Descripción\](url da imaxe) 	| ![image](http://i.imgur.com/hRLuez2.png) 	|
 | Ligazón + imaxe	| \[\![Descrición\](url á imaxe)\](url da páxina)\] 	| [![click](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
@@ -68,8 +68,8 @@ Podes atopar a sintaxe completa definida polo propio John Gruber [na súa páxin
 | Lista ordenada 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
 | Lista combinada 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
 | Código 	| \`Inserta código\` 	| ```console.log("Ola Mundo!");``` 	|
-| Bloque de código/ Realtado de sintaxis 	| \`\`\`inserta código\`\`\` 	|  <a href="#section1">Oye, por favor lee la nota debajo de esta tabla.
-| Táboa 	| \| As tablas   \|      son      \|  xeniais \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 es\|  alineada a la izquierda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
+| Bloque de código/ Realtado de sintaxis 	| \`\`\`inserta código\`\`\` 	|  <a href="#section1">Lea a nota debaixo desta táboa.
+| Táboa 	| \| As táboas   \|      son      \|  xeniais \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 é\|  aliñada á esquerda \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 
  <br></br>
  <p id="section1">Nota: **Nota al pie** de hecho, no se ve correctamente en una tabla (y en vista previa de Github).
